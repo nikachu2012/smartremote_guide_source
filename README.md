@@ -11,6 +11,8 @@
 `smartremote_staticip/`: IPの固定(節2.3.4)  
 `smartremote_json/`: 色々なデータを送る(章3.1)  
 
+[IRremote](https://arduinojson.org/)ライブラリ、[ArduinoJson](https://github.com/Arduino-IRremote/Arduino-IRremote)ライブラリが必要です。それぞれv4.4.1, v7.4.1でコンパイルが通ることを確認しています。
+
 
 ## 正誤情報
 
